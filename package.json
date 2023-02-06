@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "graphql": "^16.6.0",
+    "graphql-request": "^5.1.0",
+    "json2csv": "6.0.0-alpha.2"
+  }
+}
